@@ -1,4 +1,4 @@
-Rank,University,City,State,Type,Tuition in tate,Tuition out f tate,Enrollment,Acceptance rate,Freshman retention rate,6yr Grad rate
+Rank,University,City,State,Type,Tuition_in_state,Tuition_out_of_state,Enrollment,Acceptance_rate,Freshman_retention_rate,6yr_Grad_rate
 1,Princeton University,Princeton,NJ,Private,41820,41820,8014,7.4,98,97
 2,Harvard University,Cambridge,MA,Private,43938,43938,19882,5.8,97,97
 3,Yale University,New Haven,CT,Private,45800,45800,12109,6.9,99,98

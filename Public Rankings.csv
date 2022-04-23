@@ -1,4 +1,4 @@
-Rank,University,City,State,Type,Tuition in tate,Tuition out f tate,Enrollment,Acceptance rate,Freshman retention rate,6yr Grad rate
+Rank,University,City,State,Type,Tuition_in_state,Tuition_out_of_state,Enrollment,Acceptance_rate,Freshman_retention_rate,6yr_Grad_rate
 1,University of California Berkeley,Berkeley,CA,Public,13844,25064,36204,17.7,97,91
 2,University of California Los Angeles,Los Angeles,CA,Public,12702,35580,42190,20.4,97,90
 3,University of Virginia,Charlottesville,VA,Public,12998,42184,23464,30.1,97,93
