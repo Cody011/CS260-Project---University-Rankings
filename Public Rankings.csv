@@ -1,0 +1,119 @@
+Rank,University,City,State,Type,Tuition in tate,Tuition out f tate,Enrollment,Acceptance rate,Freshman retention rate,6yr Grad rate
+1,University of California Berkeley,Berkeley,CA,Public,13844,25064,36204,17.7,97,91
+2,University of California Los Angeles,Los Angeles,CA,Public,12702,35580,42190,20.4,97,90
+3,University of Virginia,Charlottesville,VA,Public,12998,42184,23464,30.1,97,93
+4,University of Michigan Ann Arbor,Ann Arbor,MI,Public,13977,41811,43710,33.3,97,90
+5,University of North Carolina Chapel Hill,Chapel Hill,NC,Public,8374,33624,29127,26.7,97,90
+6,College of William and Mary,Williamsburg,VA,Public,17656,39360,8376,33.2,96,90
+7,Georgia Institute of Technology,Atlanta,GA,Public,11394,30698,21471,41.1,95,82
+8,University of California San Diego,La Jolla,CA,Public,13302,36180,28731,36.8,95,86
+9,University of California Davis,Davis,CA,Public,13896,36774,33307,41.3,93,84
+10,University of California Santa Barbara,Santa Barbara,CA,Public,13746,36624,22225,39.8,92,86
+11,University of California Irvine,Irvine,CA,Public,14757,37635,28895,41.1,94,86
+12,University of Illinois Urbana Champaign,Champaign,IL,Public,15602,30228,44942,62.4,94,84
+13,University of Wisconsin Madison,Madison,WI,Public,10410,26660,43275,51.1,95,84
+14,Pennsylvania State University University Park,University Park,PA,Public,17502,30452,46615,55.5,92,85
+15,University of Florida,Gainesville,FL,Public,6313,28591,49878,46.6,96,87
+16,University of Washington,Seattle,WA,Public,12394,33513,43762,55.2,93,82
+17,University of Texas Austin,Austin,TX,Public,9798,34722,52059,40.2,93,79
+18,Ohio State University Columbus,Columbus,OH,Public,10037,26537,57466,55.5,93,83
+19,University of Connecticut,Storrs,CT,Public,12700,32880,25911,53.7,93,83
+20,Clemson University,Clemson,SC,Public,13382,30816,21303,57.2,91,82
+21,Purdue University West Lafayette,West Lafayette,IN,Public,10002,28804,38788,60.4,90,71
+22,University of Georgia,Athens,GA,Public,10836,29046,34536,54.7,94,83
+23,University of Maryland College Park,College Park,MD,Public,9427,29720,37272,46.9,95,84
+24,University of Pittsburgh,Pittsburgh,PA,Public,17772,28168,28649,54.5,92,80
+25,Texas A&M University College Station,College Station,TX,Public,9180,26356,57795,69.2,92,81
+26,Rutgers The State University of New Jersey New Brunswick,Piscataway,NJ,Public,13813,28591,48036,59.5,92,79
+27,University of Iowa,Iowa City,IA,Public,8079,27409,31065,80.2,86,70
+28,University of Minnesota Twin Cities,Minneapolis,MN,Public,13626,20876,51526,44.4,90,75
+29,Virginia Tech,Blacksburg,VA,Public,12017,27444,31205,70.3,92,83
+30,Indiana University Bloomington,Bloomington,IN,Public,10388,33241,46817,72.2,89,77
+31,Miami University Oxford,Oxford,OH,Public,14287,30394,17901,66.8,89,81
+32,SUNY College of Environmental Science and Forestry,Syracuse,NY,Public,7303,16953,2373,50.5,86,72
+33,University of Delaware,Newark,DE,Public,12342,30692,21308,63.4,92,82
+34,University of Massachusetts Amherst,Amherst,MA,Public,13258,28813,28518,62.9,89,73
+35,Michigan State University,East Lansing,MI,Public,13200,34980,49343,68.7,91,78
+36,University of California Santa Cruz,Santa Cruz,CA,Public,13398,36276,17203,51.9,90,76
+37,University of Vermont,Burlington,VT,Public,16226,37874,12723,77.6,86,76
+38,Binghamton University SUNY,Binghamton,NY,Public,8619,20259,16077,41.7,91,81
+39,Colorado School of Mines,Golden,CO,Public,16918,33598,5608,36.4,90,70
+40,Stony Brook University SUNY,Stony Brook,NY,Public,8430,21850,24143,39.5,90,66
+41,University of Alabama,Tuscaloosa,AL,Public,9826,24950,34752,56.6,86,67
+42,University of Colorado Boulder,Boulder,CO,Public,10789,33151,31702,87.7,85,70
+43,Florida State University,Tallahassee,FL,Public,6507,21673,40909,56.8,92,77
+44,North Carolina State University Raleigh,Raleigh,NC,Public,8296,23551,34009,46.9,92,74
+45,University of Missouri,Columbia,MO,Public,9433,24460,34658,78.6,84,70
+46,University of Nebraska Lincoln,Lincoln,NE,Public,8060,21388,24445,64,84,67
+47,University of New Hampshire,Durham,NH,Public,16552,29532,14942,77.8,87,80
+48,Auburn University,Auburn University,AL,Public,10200,27384,24864,82.7,89,68
+49,University at Buffalo SUNY,Buffalo,NY,Public,8426,20366,29850,56.6,88,72
+50,Iowa State University,Ames,IA,Public,7731,20617,32955,85.5,87,68
+51,University of Kansas,Lawrence,KS,Public,10448,25731,26968,88.4,80,62
+52,University of Oklahoma,Norman,OK,Public,7695,20469,30597,80.4,84,66
+53,University of Oregon,Eugene,OR,Public,9918,30888,24473,73.9,86,67
+54,University of Tennessee,Knoxville,TN,Public,11246,29696,30030,72.5,86,68
+55,University of California Riverside,Riverside,CA,Public,13408,36286,21285,60.2,88,69
+56,University of South Carolina,Columbia,SC,Public,11158,29440,31964,64.4,87,73
+57,Michigan Technological University,Houghton,MI,Public,14040,29520,6979,77.8,82,66
+58,Colorado State University,Fort Collins,CO,Public,9897,26077,31256,77.4,85,64
+59,Temple University,Philadelphia,PA,Public,14770,25450,37270,63.9,88,66
+60,University of Arizona,Tucson,AZ,Public,10581,28379,40621,77.6,79,61
+61,Rutgers The State University of New Jersey Newark,Newark,NJ,Public,13297,28075,11212,54,85,67
+62,University at Albany SUNY,Albany,NY,Public,8527,20167,17338,55.7,84,66
+63,Arizona State University Tempe,Tempe,AZ,Public,9811,23312,48739,80.2,83,59
+64,Louisiana State University Baton Rouge,Baton Rouge,LA,Public,8750,26467,30478,75,84,69
+65,Ohio University,Athens,OH,Public,10536,19500,28786,73,80,67
+66,University of Cincinnati,Cincinnati,OH,Public,11000,26334,32857,72.7,85,64
+67,University of Kentucky,Lexington,KY,Public,10616,22888,28435,68.6,82,60
+68,University of Utah,Salt Lake City,UT,Public,7935,25267,32077,81.7,87,60
+69,University of Arkansas,Fayetteville,AR,Public,8210,20300,25341,58.6,82,60
+70,George Mason University,Fairfax,VA,Public,10382,29960,33917,62,87,67
+71,Missouri University of Science & Technology,Rolla,MO,Public,9537,25404,8130,82.2,84,63
+72,Oregon State University,Corvallis,OR,Public,8276,23540,27925,79.4,83,61
+73,Washington State University,Pullman,WA,Public,12428,25510,27642,82.1,82,65
+74,Illinois State University,Normal,IL,Public,12830,20420,20272,68.9,84,72
+75,Kansas State University,Manhattan,KS,Public,9034,22624,24581,95.9,81,60
+76,Oklahoma State University,Stillwater,OK,Public,7442,20027,25939,76,79,61
+77,University of Texas Dallas,Richardson,TX,Public,11806,30378,21193,58.6,86,63
+78,New Jersey Institute of Technology,Newark,NJ,Public,15602,28274,10130,65.5,83,58
+79,San Diego State University,San Diego,CA,Public,6866,18026,32759,37.2,88,67
+80,University of Alabama Birmingham,Birmingham,AL,Public,9280,21220,18568,86.7,80,53
+81,University of Illinois Chicago,Chicago,IL,Public,13640,26030,27589,71.2,80,57
+82,University of Maryland Baltimore County,Baltimore,MD,Public,10068,21642,13908,63.2,86,65
+83,University of Mississippi,University,MS,Public,7096,19144,19431,59.4,83,58
+84,Mississippi State University,Mississippi State,MS,Public,6772,16960,20161,71.4,81,59
+85,Texas Tech University,Lubbock,TX,Public,9308,20168,33111,66.3,82,59
+86,University of Massachusetts Lowell,Lowell,MA,Public,12447,19560,16932,63.9,81,54
+87,Virginia Commonwealth University,Richmond,VA,Public,12398,29847,31288,64,86,57
+88,University of Louisville,Louisville,KY,Public,10432,24320,21447,71.1,78,53
+89,University of Rhode Island,Kingston,RI,Public,12506,28072,16387,75.8,81,60
+90,University of South Florida,Tampa,FL,Public,6410,17325,41428,45.2,89,63
+91,University of Wyoming,Laramie,WY,Public,4646,14876,12778,95.5,74,54
+92,University of Idaho,Moscow,ID,Public,6784,20314,11834,64.7,79,54
+93,University of Hawaii Manoa,Honolulu,HI,Public,10620,29412,20006,79.7,78,57
+94,University of North Dakota,Grand Forks,ND,Public,7508,17794,15143,71,76,55
+95,University of South Dakota,Vermillion,SD,Public,8022,10104,10235,87.9,76,56
+96,West Virginia University,Morgantown,WV,Public,6960,20424,29466,85.3,78,57
+97,Ball State University,Muncie,IN,Public,9344,24610,20503,60.6,79,60
+98,Bowling Green State University,Bowling Green,OH,Public,10726,18034,16958,72.5,72,54
+99,University of Central Florida,Orlando,FL,Public,6368,22467,59740,48.9,87,67
+100,University of Maine,Orono,ME,Public,10604,28484,11247,83.4,79,56
+101,Western Michigan University,Kalamazoo,MI,Public,10685,24917,24294,82.9,74,55
+102,North Dakota State University,Fargo,ND,Public,7660,18242,14629,84.1,78,53
+103,South Dakota State University,Brookings,SD,Public,7713,9795,12554,91.9,75,57
+104,University of Alabama Huntsville,Huntsville,AL,Public,9158,21232,7376,80.6,79,48
+105,University of North Carolina Greensboro,Greensboro,NC,Public,6442,21304,17707,58.2,76,55
+106,Southern Illinois University Carbondale,Carbondale,IL,Public,12251,24874,17964,79.3,65,44
+107,University of Houston,Houston,TX,Public,10518,24378,39540,58.4,83,48
+108,University of Missouri Kansas City,Kansas City,MO,Public,9582,22641,15746,65.3,73,51
+109,University of New Mexico,Albuquerque,NM,Public,6846,20688,27337,56.7,77,48
+110,Central Michigan University,Mount Pleasant,MI,Public,11550,23670,26902,63.1,77,59
+111,Indiana University Purdue University Indianapolis,Indianapolis,IN,Public,8909,30089,30488,69.6,72,42
+112,Kent State University,Kent,OH,Public,10012,17972,28998,83.1,77,51
+113,Northern Illinois University,DeKalb,IL,Public,13636,22914,21138,52,70,51
+114,University of Montana,Missoula,MT,Public,6330,23146,12058,95.7,73,48
+115,University of Nevada Reno,Reno,NV,Public,6415,20325,18776,84.3,79,51
+116,Utah State University,Logan,UT,Public,6384,18491,27812,98.5,70,51
+117,Louisiana Tech University,Ruston,LA,Public,8052,22635,11015,67.4,77,50
+118,University of North Carolina Charlotte,Charlotte,NC,Public,6179,18708,26571,62.7,78,54
