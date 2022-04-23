@@ -1,0 +1,85 @@
+Rank,University,City,State,Type,Tuition in-state,Tuition out-of-state,Enrollment,Acceptance rate,Freshman retention rate,6yr Grad rate
+1,Princeton University,Princeton,NJ,Private,41820,41820,8014,7.4,98,97
+2,Harvard University,Cambridge,MA,Private,43938,43938,19882,5.8,97,97
+3,Yale University,New Haven,CT,Private,45800,45800,12109,6.9,99,98
+4,Columbia University,New York,NY,Private,51008,51008,23606,6.9,99,96
+5,Stanford University,Stanford,CA,Private,44757,44757,18136,5.7,98,96
+6,University of Chicago,Chicago,IL,Private,48253,48253,12539,8.8,99,93
+7,Massachusetts Institute of Technology,Cambridge,MA,Private,45016,45016,11301,8.2,98,93
+8,Duke University,Durham,NC,Private,47488,47488,15465,12.4,97,94
+9,University of Pennsylvania,Philadelphia,PA,Private,47668,47668,21358,12.2,98,96
+10,California Institute of Technology,Pasadena,CA,Private,43362,43362,2181,10.6,97,93
+11,Dartmouth College,Hanover,NH,Private,48108,48108,6342,10.4,98,95
+12,Johns Hopkins University,Baltimore,MD,Private,47060,47060,21052,17.1,97,93
+13,Northwestern University,Evanston,IL,Private,47251,47251,20997,14,97,94
+14,Washington University in St. Louis,St. Louis,MO,Private,46467,46467,14032,15.6,97,94
+15,Cornell University,Ithaca,NY,Private,47286,47286,21593,15.6,97,93
+16,Brown University,Providence,RI,Private,47434,47434,8943,9.2,98,94
+17,University of Notre Dame,Notre Dame,IN,Private,46237,46237,12124,22.3,98,95
+18,Vanderbilt University,Nashville,TN,Private,43838,43838,12757,12.7,97,93
+19,Rice University,Houston,TX,Private,40566,40566,6628,16.7,97,91
+20,Emory University,Atlanta,GA,Private,45008,45008,14513,26.5,95,91
+21,Georgetown University,Washington,DC,Private,46744,46744,17849,17.1,96,92
+22,Carnegie Mellon University,Pittsburgh,PA,Private,48786,48786,12991,25.5,95,88
+23,University of Southern California,Los Angeles,CA,Private,48280,48280,41368,19.8,97,91
+24,Tufts University,Medford,MA,Private,48643,48643,10872,18.9,97,92
+25,Wake Forest University,Winston-Salem,NC,Private,46200,46200,7602,35.2,94,86
+26,Boston College,Chestnut Hill,MA,Private,47436,47436,13525,32.2,95,91
+27,New York University,New York,NY,Private,46170,46170,44599,32.4,92,84
+28,University of Rochester,Rochester,NY,Private,46960,46960,11020,35.7,96,85
+29,Brandeis University,Waltham,MA,Private,47833,47833,5825,37,93,90
+30,Case Western Reserve University,Cleveland,OH,Private,43158,43158,10325,41.9,93,80
+31,Lehigh University,Bethlehem,PA,Private,44890,44890,7096,30.8,94,86
+32,Boston University,Boston,MA,Private,46664,46664,32411,36.9,92,84
+33,Northeastern University,Boston,MA,Private,43440,43440,20034,32.3,95,83
+34,Rensselaer Polytechnic Institute,Troy,NY,Private,47908,47908,6995,41.2,93,85
+35,University of Miami,Coral Gables,FL,Private,44350,44350,16935,40.5,91,82
+36,Yeshiva University,New York,NY,Private,38730,38730,6744,82.2,91,89
+37,George Washington University,Washington,DC,Private,48760,48760,25264,34.4,93,81
+38,Pepperdine University,Malibu,CA,Private,46692,46692,7315,37.3,91,80
+39,Tulane University,New Orleans,LA,Private,48305,48305,13462,26.4,90,76
+40,Fordham University,New York,NY,Private,43577,43577,15097,47.1,89,80
+41,Southern Methodist University,Dallas,TX,Private,45940,45940,10929,50.7,90,79
+42,Syracuse University,Syracuse,NY,Private,41886,41886,21267,49.5,92,81
+43,Brigham Young University,Provo,UT,Private,5000,5000,31123,48.7,87,77
+44,Worcester Polytechnic Institute,Worcester,MA,Private,42778,42778,6296,51.6,96,81
+45,American University,Washington,DC,Private,41833,41833,12819,43.1,90,80
+46,Baylor University,Waco,TX,Private,38290,38290,15616,57.5,86,75
+47,Clark University,Worcester,MA,Private,40730,40730,3551,61.5,90,81
+48,Marquette University,Milwaukee,WI,Private,35930,35930,11782,57.5,89,78
+49,Stevens Institute of Technology,Hoboken,NJ,Private,44490,44490,5784,38.2,94,79
+50,Texas Christian University,Fort Worth,TX,Private,38600,38600,9925,47.4,88,76
+51,University of Denver,Denver,CO,Private,42090,42090,11778,76.7,87,78
+52,University of Tulsa,Tulsa,OK,Private,34704,34704,4597,40.6,88,69
+53,Drexel University,Philadelphia,PA,Private,47051,47051,23620,81.5,85,70
+54,University of San Diego,San Diego,CA,Private,42908,42908,8321,48.9,89,75
+55,St. Louis University,St. Louis,MO,Private,37966,37966,13505,63.6,86,70
+56,University of Dayton,Dayton,OH,Private,37230,37230,10835,52.3,88,77
+57,Loyola University Chicago,Chicago,IL,Private,37412,37412,15957,91.4,86,71
+58,University of San Francisco,San Francisco,CA,Private,41450,41450,10130,61.1,86,69
+59,University of St. Thomas,St. Paul,MN,Private,34442,34442,10221,86.2,88,75
+60,The Catholic University of America,Washington,DC,Private,39726,39726,6725,60.1,82,69
+61,Duquesne University,Pittsburgh,PA,Private,32636,32636,9904,74.1,87,76
+62,Illinois Institute of Technology,Chicago,IL,Private,41335,41335,7850,57,93,63
+63,University of the Pacific,Stockton,CA,Private,41342,41342,6421,72.7,86,63
+64,Clarkson University,Potsdam,NY,Private,42530,42530,3726,64,87,75
+65,DePaul University,Chicago,IL,Private,35071,35071,24414,59.9,86,70
+66,Seton Hall University,South Orange,NJ,Private,36926,36926,9903,79.2,82,64
+67,Hofstra University,Hempstead,NY,Private,38900,38900,10928,59,78,62
+68,New School,New York,NY,Private,41836,41836,10401,66.6,82,65
+69,St. John Fisher College,Rochester,NY,Private,29550,29550,3987,62.8,83,73
+70,Howard University,Washington,DC,Private,23970,23970,10297,57,82,61
+71,St. John's University,Queens,NY,Private,38680,38680,20729,52.6,78,55
+72,Adelphi University,Garden City,NY,Private,32340,32340,7645,68.1,82,63
+73,Maryville University of St. Louis,St Louis,MO,Private,25884,25884,5033,76.1,85,67
+74,Biola University,La Mirada,CA,Private,33322,33322,6323,74.7,86,69
+75,University of La Verne,La Verne,CA,Private,36744,36744,5111,34.4,85,59
+76,Andrews University,Berrien Springs,MI,Private,26262,26262,3516,38.6,79,60
+77,Azusa Pacific University,Azusa,CA,Private,33096,33096,10755,82.3,85,65
+78,Florida Institute of Technology,Melbourne,FL,Private,37990,37990,5644,60.5,79,54
+79,Pace University,New York,NY,Private,39747,39747,12624,81.2,77,51
+80,Edgewood College,Madison,WI,Private,25590,25590,2894,76.6,80,57
+81,Immaculata University,Immaculata,PA,Private,30740,30740,3675,81.9,82,48
+82,Spalding University,Louisville,KY,Private,22425,22425,,29.3,73,42
+83,St. Mary's University of Minnesota,Winona,MN,Private,30315,30315,5528,74.9,77,55
+84,Widener University,Chester,PA,Private,39830,39830,6311,67.3,73,56
