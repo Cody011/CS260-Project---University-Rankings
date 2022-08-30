@@ -1,4 +1,4 @@
-# CS260Project
+# CS260 Project - University Rankings
 For this project, our group mainly explored how private and public schools performed to aid in the decision making for college applicants.
 
 We asked the following questions in order to discover relationships between variables:
